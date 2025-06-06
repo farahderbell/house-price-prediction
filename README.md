@@ -22,9 +22,11 @@ This project builds a machine learning model to predict house sale prices based 
 
 ## 📈 Visualizations
 
-### 1. Actual vs Predicted Sale Price  
-![Actual vs Predicted Sale Price](actual_vs_predicted.png)
+### 1. Content Type Distribution  
+![Type Distribution](notebooks/type_distribution.png)
 
+### 2. Content Added Over Time  
+![Content Over Time](notebooks/content_over_time.png)
 ---
 
 ## 🛠️ Tools Used
