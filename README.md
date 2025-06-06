@@ -23,7 +23,7 @@ This project builds a machine learning model to predict house sale prices based 
 ## 📈 Visualizations
 
 ### 1. Actual vs Predicted Sale Prices  
-![Regression Plot](notebooks/regression_plot.png)
+![Regression Plot](notebooks/actual_vs_predicted.png)
 
 ---
 

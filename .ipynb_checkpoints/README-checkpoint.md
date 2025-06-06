@@ -22,8 +22,8 @@ This project builds a machine learning model to predict house sale prices based 
 
 ## 📈 Visualizations
 
-### 1. Actual vs Predicted Sale Price  
-![Actual vs Predicted Sale Price](actual_vs_predicted.png)
+### 1. Actual vs Predicted Sale Prices  
+![Regression Plot](notebooks/actual_vs_predicted.png)
 
 ---
 
@@ -41,6 +41,7 @@ This project builds a machine learning model to predict house sale prices based 
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+
 ## 📌 Author
 
 Made with ❤️ by [Farah]
