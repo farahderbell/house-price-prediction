@@ -85,6 +85,8 @@ streamlit run app.py
 3.streamlit run app.py
 ---
 
+```
+
 ## 📌 Author
 
 Made with ❤️ by [Farah]
