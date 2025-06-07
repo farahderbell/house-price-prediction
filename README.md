@@ -47,7 +47,19 @@ This project builds a machine learning model to predict house sale prices based 
 
 ## 🌐 Web App
 
-An interactive web application is built using **Streamlit** to allow users to input property details and get an estimated house price prediction in real-time.
+An interactive web application is built using **Streamlit**...
+
+### 📷 Web App Preview
+
+![House Price Predictor UI](notebooks/house.png)
+
+This app allows users to enter features such as:
+- Lot Area  
+- Year Built  
+- Overall Quality  
+- Number of Bedrooms  
+
+And instantly get a predicted sale price based on the trained model.
 
 ### Features:
 
@@ -73,7 +85,6 @@ streamlit run app.py
 3.streamlit run app.py
 ---
 
-Let me know if you'd like help writing the `app.py` file or setting up the deployment to Streamlit Cloud!
 ## 📌 Author
 
 Made with ❤️ by [Farah]
